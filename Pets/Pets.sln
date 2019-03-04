@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pets", "Pets\Pets.csproj", "{A0F05D5A-3716-41FB-8A01-7A387A840987}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A0F05D5A-3716-41FB-8A01-7A387A840987}.Debug|x86.ActiveCfg = Debug|x86
+		{A0F05D5A-3716-41FB-8A01-7A387A840987}.Debug|x86.Build.0 = Debug|x86
+		{A0F05D5A-3716-41FB-8A01-7A387A840987}.Release|x86.ActiveCfg = Release|x86
+		{A0F05D5A-3716-41FB-8A01-7A387A840987}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal

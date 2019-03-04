@@ -1,0 +1,6 @@
+/Users/JohnWilliams/Documents/IT2040/Pets/Pets/obj/x86/Debug/Pets.csprojAssemblyReference.cache
+/Users/JohnWilliams/Documents/IT2040/Pets/Pets/obj/x86/Debug/Pets.csproj.CoreCompileInputs.cache
+/Users/JohnWilliams/Documents/IT2040/Pets/Pets/bin/Debug/Pets.exe
+/Users/JohnWilliams/Documents/IT2040/Pets/Pets/bin/Debug/Pets.pdb
+/Users/JohnWilliams/Documents/IT2040/Pets/Pets/obj/x86/Debug/Pets.exe
+/Users/JohnWilliams/Documents/IT2040/Pets/Pets/obj/x86/Debug/Pets.pdb
